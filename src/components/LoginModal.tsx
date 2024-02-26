@@ -37,9 +37,8 @@ const LoginModal: FC = () => {
                 <GiArchiveRegister />
               </div>
               <p className="leading-4">
-                This is a hobby project for development purpose only. No well
-                suited backend has been used here. Please use <b>atuny0</b> as
-                username & <b>9uQFF1Lh</b> as password. You can find these
+                 Please use <b>kingsolution</b> as
+                username & <b>kingsolution</b> as password. You can find these
                 credentials in the placeholder also.{" "}
                 <span
                   className="text-blue-500 cursor-pointer hover:underline"
